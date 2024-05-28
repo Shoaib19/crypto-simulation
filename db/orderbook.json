@@ -1,0 +1,103 @@
+{
+  "order_historyTable": [
+    {
+      "id": "050b",
+      "initial": "1200",
+      "price": "20",
+      "quantity": "3",
+      "createdAt": "2024-05-26T16:14:30.885Z",
+      "completedAt": null,
+      "orderType": "BUY LIMIT",
+      "pair": "BTC/USDT",
+      "status": "Pending"
+    },
+    {
+      "id": "6441",
+      "initial": "1200",
+      "price": "30",
+      "quantity": "2",
+      "createdAt": "2024-05-26T16:18:25.199Z",
+      "completedAt": null,
+      "orderType": "BUY LIMIT",
+      "pair": "BTC/USDT",
+      "status": "Pending"
+    },
+    {
+      "id": "b586",
+      "initial": "1200",
+      "price": "30",
+      "quantity": "2",
+      "createdAt": "2024-05-26T16:18:48.290Z",
+      "completedAt": null,
+      "orderType": "MARKET SELL",
+      "pair": "BTC/USDT",
+      "status": "Filled"
+    },
+    {
+      "id": "0475",
+      "initial": "1200",
+      "price": "30",
+      "quantity": "2",
+      "createdAt": "2024-05-26T16:19:07.921Z",
+      "completedAt": null,
+      "orderType": "MARKET BUY",
+      "pair": "BTC/USDT",
+      "status": "Filled"
+    },
+    {
+      "id": "0034",
+      "initial": "2",
+      "price": "2",
+      "quantity": "2",
+      "createdAt": "2024-05-26T16:31:46.997Z",
+      "completedAt": null,
+      "orderType": "MARKET SELL",
+      "pair": "xrp_usd",
+      "status": "Filled"
+    },
+    {
+      "id": "154e",
+      "initial": "3",
+      "price": "3",
+      "quantity": "3",
+      "createdAt": "2024-05-26T16:34:12.710Z",
+      "completedAt": null,
+      "orderType": "BUY LIMIT",
+      "pair": "BTC/USDT",
+      "status": "Pending"
+    },
+    {
+      "id": "8757",
+      "initial": "3",
+      "price": "3",
+      "quantity": "4",
+      "createdAt": "2024-05-26T16:39:25.974Z",
+      "completedAt": null,
+      "orderType": "BUY LIMIT",
+      "pair": "BTC/USDT",
+      "status": "Pending"
+    },
+    {
+      "id": "5e16",
+      "initial": "34",
+      "price": "34",
+      "quantity": "43",
+      "createdAt": "2024-05-26T16:39:38.555Z",
+      "completedAt": null,
+      "orderType": "BUY LIMIT",
+      "pair": "BTC/USDT",
+      "status": "Pending"
+    },
+    {
+      "id": "93e7",
+      "initial": "44",
+      "price": "44",
+      "quantity": "44",
+      "createdAt": "2024-05-26T16:42:02.125Z",
+      "completedAt": null,
+      "orderType": "MARKET BUY",
+      "pair": "xrp_usd",
+      "status": "Filled"
+    }
+  ]
+}
